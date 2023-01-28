@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niyaskandengil
 - 👀 I’m interested in Programming languages
-- 🌱 I’m currently learning Mobile App Development
+- 🌱 I’m currently learning Java Full Stack Development 
 - 💞️ I’m looking to collaborate on Creating a new advanced world
 - 📫 How me reach on my mail niyaskandengil@icet.ac.in
 
